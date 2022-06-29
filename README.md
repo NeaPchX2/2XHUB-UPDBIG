@@ -1,1 +1,2 @@
-loadstring(game:HttpGet('https://github.com/armch063/2xHub-/files/9008585/2xHUBNEWUPD.txt', true))()
+
+loadstring(game:HttpGet('https://github.com/NeaPchX2/2XHUB-UPDBIG/files/9015079/Protected.24.txt', true))()
