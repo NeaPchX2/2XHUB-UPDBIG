@@ -1,5 +1,5 @@
 
-loadstring(game:HttpGet('https://github.com/NeaPchX2/2XHUB-UPDBIG/files/9042704/Protected.28.txt', true))()
+loadstring(game:HttpGet('https://github.com/NeaPchX2/2XHUB-UPDBIG/files/9051648/Protected.29.txt', true))()
 _G.P = true
 
 do
