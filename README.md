@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://github.com/armch063/BF-1XLIIHUB-V3/files/9078553/Protected.1.txt', true))()
+loadstring(game:HttpGet('https://github.com/2xhubm/newsrcbygooeing/files/9102702/Protected.lua.1.txt', true))()
