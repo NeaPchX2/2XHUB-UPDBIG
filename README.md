@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://github.com/2xhubm/2xhubm/files/9114101/Protected.lua.4.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NeaPchX2/Buy-Script/main/Protected%20(1).lua"))()
